@@ -1,0 +1,3 @@
+[submodule "swift-armcknight"]
+	path = swift-armcknight
+	url = git@github.com:armcknight/swift-armcknight.git
